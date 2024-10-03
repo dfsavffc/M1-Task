@@ -1,0 +1,8 @@
+{
+  "mass": 1,
+  "velocity_x": 40,
+  "velocity_y": 2,
+  "resistance_coefficient": 10,
+  "g": 9.81,
+  "accuracy": 0.001
+}
